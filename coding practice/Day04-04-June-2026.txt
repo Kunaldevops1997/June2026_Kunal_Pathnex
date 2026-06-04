@@ -1,0 +1,28 @@
+🔹 Ansible — Install & Enable Nginx
+- name: Install and start Nginx on Gitpush
+  hosts: all
+  become: yes
+
+  tasks:
+    - name: Install nginx
+      yum:
+        name: nginx
+        state: present
+
+    - name: Enable nginx
+      service:
+        name: nginx
+        state: started
+        enabled: yes
+
+# Docker Images & Containers
+docker pull ubuntu
+docker images
+docker ps -a
+
+# Docker File
+FROM ubuntu:22.04
+RUN apt update
+CMD ["echo", "Hello Kunal"]
+
+
