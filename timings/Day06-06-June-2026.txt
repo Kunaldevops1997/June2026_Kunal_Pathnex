@@ -1,0 +1,7 @@
+# What I did today
+# 30 min - Revised linux
+# watch AWS lecture & study ec2, IAM, VPC &S3 Services
+# 30 min. English watching movies(The Boys)
+
+## Tomorrow's Task
+# git & aws reviosn
