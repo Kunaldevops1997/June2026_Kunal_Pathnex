@@ -1,0 +1,8 @@
+# What I did today
+# 1 hour - Revised git, aws, docker
+# watch kubernates May month lecture & learn about kubernates cluster creation, nodes & pods
+# 30 min. English watching movies(The Boys)
+
+## Tomorrow's Task
+# EKS Cluster
+
