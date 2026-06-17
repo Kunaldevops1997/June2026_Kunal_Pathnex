@@ -1,0 +1,8 @@
+# What I did today
+# 1 hour - Revision EKS Cluster
+# watch kubernates May month lecture & learn about kubernates cluster creation, nodes & pods done mutiple time
+# 30 min. English watching movies(The Boys)
+
+## Tomorrow's Task
+# Helm Chart & ArgoCD Revision 
+
